@@ -237,7 +237,7 @@ Added compatibility for React Native 0.55 - according to [2b-dev solution](https
 #### Updated installation/configuration steps (Android):
 * install
 ```
-yarn add react-native-smart-barcode
+yarn add react-native-smart-barcode@https://github.com/backbonesk/react-native-smart-barcode.git#forRN0.55
 ```
 ```
 react-native link
